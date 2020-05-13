@@ -22,7 +22,7 @@ namespace WBproject.Controllers
        
     public string Get()
         {
-            return "It is workingg";
+            return "It is working";
         }
     }
 }

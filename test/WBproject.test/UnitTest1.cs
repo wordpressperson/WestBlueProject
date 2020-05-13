@@ -11,7 +11,7 @@ namespace WBproject.test
         public void checkReturnName()
         {
             var returnValue=controller.Get();
-            Assert.Equal("West Blue Test", returnValue);
+            Assert.Equal("It is working", returnValue);
         }
 
         [Fact]
